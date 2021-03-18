@@ -4,7 +4,7 @@
 
 ### Initial Screen
 
-<img src="./todos.png" width=300/>
+<img src="./todos.PNG" width=300/>
 
 
 
